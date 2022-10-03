@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailagaz&show_icons=true&theme=transparent&border_radius=20)](https://github.com/Hailagaz/hailagaz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailagaz&show_icons=true&theme=yeblu&border_radius=20)](https://github.com/Hailagaz/hailagaz)
 </div>
 
 
