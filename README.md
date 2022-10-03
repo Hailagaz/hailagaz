@@ -22,4 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailagaz&show_icons=true&theme=yeblu&border_radius=20)](https://github.com/Hailagaz/hailagaz)
 </div>
 
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailagaz&layout=compact&theme=yeblu&border_radius=20)](https://github.com/Hailagaz/hailagaz)
+</div>
