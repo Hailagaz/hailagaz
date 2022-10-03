@@ -15,5 +15,11 @@
 <!-- ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react) -->
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux) -->
 
-## Different packs
+## GitHub Statistics
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailagaz&show_icons=true&theme=transparent&border_radius=20)](https://github.com/Hailagaz/hailagaz)
+</div>
+
 
