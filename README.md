@@ -26,3 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailagaz&layout=compact&theme=yeblu&border_radius=20&card_width=450px&border_color=FFED00)](https://github.com/Hailagaz/hailagaz)
 </div>
+
