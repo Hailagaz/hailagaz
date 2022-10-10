@@ -4,9 +4,9 @@
 </div>
 
 ## About me
-#### I'm beginner software engineer (front-end development). Previous work direction was Automated Project Control System (APCS) engineering.
-
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
+
+I'm beginner software engineer (front-end development). Previous work direction was Automated Project Control System (APCS) engineering.
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -18,15 +18,13 @@
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 
-#### In plan to learn: 	
+In plan to learn: 	
 
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
-
-
 
 ## GitHub Statistics
 
@@ -41,6 +39,7 @@
 </div>
 
 ## Contact me
+(Links to my profiles are not connected at the moment)
 
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/)
