@@ -6,7 +6,7 @@
 ## About me
 #### I'm beginner software engineer (front-end development). Previous work direction was Automated Project Control System (APCS) engineering.
 
-![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS&border_radius=20)
+![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
