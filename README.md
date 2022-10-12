@@ -43,5 +43,5 @@ In plan to learn:
 
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/)
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://web.telegram.org/)
