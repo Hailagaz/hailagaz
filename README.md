@@ -6,7 +6,7 @@
 ## About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-I'm beginner software engineer (front-end development). Previous work direction was Automated Control Systems (ACS) engineering.
+Front-End developer with about a year of continuous learning designing and developing websites. Previous work direction was Automated Control Systems (ACS) engineering.
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
