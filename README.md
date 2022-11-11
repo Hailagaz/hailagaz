@@ -20,6 +20,7 @@ Front-End developer with about a year of continuous learning designing and devel
 
 In plan to learn: 	
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
