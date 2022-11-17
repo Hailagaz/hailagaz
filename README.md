@@ -6,7 +6,7 @@
 ## About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-Front-End developer with about a year of continuous learning designing and developing websites. Previous work direction was Automated Control Systems (ACS) engineering.
+Front-End developer with about a year of continuous learning designing and developing websites. Previous work direction was Automated Control Systems (ACS) engineering with 8 years of experience.
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
