@@ -40,9 +40,9 @@ In plan to learn:
 </div>
 
 ## Contact me
-(Only LinkedIn link is connected at the moment)
+(Only LinkedIn and Telegram links are connected at the moment)
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/)
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/)
-[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://web.telegram.org/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Hailagaz92)
