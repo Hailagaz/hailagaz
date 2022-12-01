@@ -20,12 +20,12 @@ Front-End developer with about a year of continuous learning designing and devel
 
 In plan to learn: 	
 
+![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
+![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
-![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
-![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
 
 ## GitHub Statistics
 
@@ -40,9 +40,7 @@ In plan to learn:
 </div>
 
 ## Contact me
-(Only LinkedIn and Telegram links are connected at the moment)
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
-[![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/)
-[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Hailagaz92)
+<!-- [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/) -->
