@@ -17,6 +17,7 @@ Front-End developer with about a year of continuous learning designing and devel
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
 In plan to learn: 	
 
