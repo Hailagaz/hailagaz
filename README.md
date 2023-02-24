@@ -6,9 +6,12 @@
 ## About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-Front-End developer with about a year of continuous learning designing and developing websites. Previous work direction was Automated Control Systems (ACS) engineering with 8 years of experience.
+Front-End developer with more than a year of continuous learning and working designing and developing websites. 
+
+Previous work direction was Automated Control Systems (ACS) engineering with 8 years of experience.
 
 ## Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
@@ -17,16 +20,24 @@ Front-End developer with about a year of continuous learning designing and devel
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
-In plan to learn: 	
 
+#### In process of learn:
+
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+
+
+#### In plan to learn: 	
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 
 ## GitHub Statistics
 
@@ -44,4 +55,3 @@ In plan to learn:
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Hailagaz92)
-<!-- [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail)](https://www.gmail.com/) -->
