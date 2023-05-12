@@ -27,16 +27,15 @@ Previous work direction was Automated Control Systems (ACS) engineering with 8 y
 #### In process of learn:
 
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
+![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
 
 #### In plan to learn: 	
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
-![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
 
 ## GitHub Statistics
