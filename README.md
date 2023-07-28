@@ -6,9 +6,7 @@
 ## About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-Front-End developer with more than a year of continuous learning and working designing and developing websites. 
-
-Previous work direction was Automated Control Systems (ACS) engineering with 8 years of experience.
+Passionate and skilled Front-End Developer with a strong foundation in ReactJS, JavaScript, HTML and CSS. Proficient in creating responsive web designs and interactive user interfaces. Enthusiastic about leveraging technology to build visually appealing and user-friendly websites. Committed to continuous learning and staying up-to-date with the latest industry trends.
 
 ## Languages and Tools
 
