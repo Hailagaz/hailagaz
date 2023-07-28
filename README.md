@@ -22,6 +22,7 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
 #### 3. Tools & Platforms
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira)
 ![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
