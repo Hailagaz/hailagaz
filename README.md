@@ -35,7 +35,7 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 #### 5. Design
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
-![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-000000?style=for-the-badge&logo=photoshop)
+![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
 <!-- 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
