@@ -16,7 +16,7 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 
 #### 2. Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![ReactJS](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/-React_Router-000000?style=for-the-badge&logo=react-router)
 ![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
 ![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
