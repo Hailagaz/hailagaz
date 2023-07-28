@@ -17,24 +17,24 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 #### 2. Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![Chakra UI](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakra)
-![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
+![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
+![JQuery](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
 #### 3. Tools & Platforms
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira)
 ![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
-![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
-![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
 ![GULP](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
 
 #### 4. Testing
-![JEST](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
+![Jest](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
 
 #### 5. Design
-![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
 <!-- 
