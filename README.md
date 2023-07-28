@@ -12,6 +12,7 @@ Previous work direction was Automated Control Systems (ACS) engineering with 8 y
 
 ## Languages and Tools
 
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
@@ -22,19 +23,17 @@ Previous work direction was Automated Control Systems (ACS) engineering with 8 y
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 ![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
-
+![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
 
 #### In process of learn:
 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
 
 #### In plan to learn: 	
-![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=reactnative)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
-![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-000000?style=for-the-badge&logo=wordpress)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
 
 ## GitHub Statistics
