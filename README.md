@@ -18,16 +18,16 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 #### 2. Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
-![JQuery](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
+![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
 #### 3. Tools & Platforms
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira)
-![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
-![GULP](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
+![Gulp](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
 
 #### 4. Testing
@@ -43,7 +43,9 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 ![React Native](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql) -->
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql) 
+![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
+-->
 
 ## III. GitHub Statistics
 
