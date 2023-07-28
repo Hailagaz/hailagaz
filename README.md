@@ -68,4 +68,6 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Hailagaz92)
+
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook)](https://facebook.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)](https://gmail.com)
