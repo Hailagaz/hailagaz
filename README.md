@@ -10,30 +10,39 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 ## II. Languages and Tools
 
-#### 1. 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+#### 1. Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
-![GULP](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
+
+#### 2. Libraries & Frameworks
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Chakra UI](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakra)
+![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
+
+#### 3. Tools & Platforms
+![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira)
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
-![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
-![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
-![JQUERY](https://img.shields.io/badge/-JQUERY-000000?style=for-the-badge&logo=jquery)
-![JEST](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
-#### 2. In process of learn:
+![GULP](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
 
+#### 4. Testing
+![JEST](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
+
+#### 5. Design
+![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
+![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-000000?style=for-the-badge&logo=photoshop)
+
+<!-- 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
-
-#### 3. In plan to learn: 	
 ![React Native](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql) -->
 
 ## III. GitHub Statistics
 
