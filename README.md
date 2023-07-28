@@ -31,7 +31,7 @@ Previous work direction was Automated Control Systems (ACS) engineering with 8 y
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
 
 #### In plan to learn: 	
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=reactnative)
+![React Native](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
