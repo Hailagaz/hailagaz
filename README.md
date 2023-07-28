@@ -12,18 +12,19 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 #### 1. Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 
 #### 2. Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![React Router](https://img.shields.io/badge/-React_Router-000000?style=for-the-badge&logo=react-router)
 ![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
 ![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 
 #### 3. Tools & Platforms
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai)
-![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira)
+![Jira](https://img.shields.io/badge/-jira-000000?style=for-the-badge&logo=jira)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
@@ -37,14 +38,18 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 ![Figma](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
-<!-- 
+<!--
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
-![React Native](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-react_native-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql) 
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
+
+
 ![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
+![Styled Components](https://img.shields.io/badge/-styled--components-000000?style=for-the-badge&logo=styled-components)
+
 -->
 
 ## III. GitHub Statistics
@@ -63,3 +68,4 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-cherniavskyi-37a5b3253)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Hailagaz92)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook)](https://facebook.com)
