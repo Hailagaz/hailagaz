@@ -33,7 +33,7 @@ Passionate and skilled Front-End Developer with a strong foundation in ReactJS, 
 
 #### 4. Testing
 ![Jest](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-000000?style=for-the-badge&logo=testing-library)
+![Testing Library](https://img.shields.io/badge/-TestingLibrary-000000?style=for-the-badge&logo=testing-library)
 
 
 #### 5. Design
