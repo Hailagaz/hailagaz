@@ -6,7 +6,9 @@
 ## I. About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-Passionate and skilled Front-End Developer with a strong foundation in ReactJS, JavaScript, HTML and CSS. Proficient in creating responsive web designs and interactive user interfaces. Enthusiastic about leveraging technology to build visually appealing and user-friendly websites. Committed to continuous learning and staying up-to-date with the latest industry trends.
+I am a passionate Front-End Developer skilled in React, JavaScript, HTML, and CSS, dedicated to creating visually appealing and user-friendly websites. With a strong foundation in web development and a diverse portfolio of projects, I excel in transforming static designs into dynamic and seamless user interfaces. My portfolio showcases my commitment to innovation and continuous learning, ensuring I stay up-to-date with the latest industry trends.
+
+As a former Automated Control Systems Engineer, I bring problem-solving abilities, attention to detail, and effective collaboration in multidisciplinary teams. Combining my engineering expertise with a profound passion for front-end development, I am confident in my ability to deliver exceptional results for the projects.
 
 ## II. Languages and Tools
 
