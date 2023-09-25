@@ -19,7 +19,9 @@ As a former Automated Control Systems Engineer, I bring problem-solving abilitie
 
 #### Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/-React_Router-000000?style=for-the-badge&logo=react-router)
+![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
 ![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
@@ -43,14 +45,11 @@ As a former Automated Control Systems Engineer, I bring problem-solving abilitie
 ![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
 <!--
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
 ![React Native](https://img.shields.io/badge/-react_native-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
-
-![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
 ![Styled Components](https://img.shields.io/badge/-styled--components-000000?style=for-the-badge&logo=styled-components)
 -->
 
