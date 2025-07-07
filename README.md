@@ -13,10 +13,10 @@ I am passionate about the intersection of development and quality assurance, and
 ## II. Skills
 #### Automation & Testing
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-000000?style=for-the-badge&logo=playwright)
-![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=for-the-badge&logo=Cucumber)
-![BDD](https://img.shields.io/badge/-BDD-000000?style=for-the-badge&logo=BDD)
-![E2E](https://img.shields.io/badge/-E2E-000000?style=for-the-badge&logo=E2E)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=CI/CD)
+![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=for-the-badge&logo=cucumber)
+![BDD](https://img.shields.io/badge/-BDD-000000?style=for-the-badge&logo=bdd)
+![E2E](https://img.shields.io/badge/-E2E-000000?style=for-the-badge&logo=e2e)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=ci/cd)
 ![Jest](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-000000?style=for-the-badge&logo=testing-library)
 
@@ -39,15 +39,15 @@ I am passionate about the intersection of development and quality assurance, and
 ![Figma](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 
 #### Engineering Specialized Software
-![Eplan Electric P8](https://img.shields.io/badge/-EplanElectricP8-000000?style=for-the-badge&logo=EplanElectricP8)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=for-the-badge&logo=AutoCAD)
-![TIA Portal](https://img.shields.io/badge/-TIAPortal-000000?style=for-the-badge&logo=TIAPortal)
+![Eplan Electric P8](https://img.shields.io/badge/-EplanElectricP8-000000?style=for-the-badge&logo=eplanelectricp8)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=for-the-badge&logo=autocad)
+![TIA Portal](https://img.shields.io/badge/-TIAPortal-000000?style=for-the-badge&logo=tiaportal)
 ![MatLab](https://img.shields.io/badge/-MatLab-000000?style=for-the-badge&logo=matlab)
 
 #### Languages
-![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=English)
-![Ukrainian](https://img.shields.io/badge/-Ukrainian-000000?style=for-the-badge&logo=Ukrainian)
-![Russian](https://img.shields.io/badge/-Russian-000000?style=for-the-badge&logo=Russian)
+![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=english)
+![Ukrainian](https://img.shields.io/badge/-Ukrainian-000000?style=for-the-badge&logo=ukrainian)
+![Russian](https://img.shields.io/badge/-Russian-000000?style=for-the-badge&logo=russian)
 
 ## III. GitHub Statistics
 
