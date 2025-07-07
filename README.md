@@ -6,9 +6,9 @@
 ## I. About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-I am a passionate Front-End Developer skilled in React, JavaScript, HTML, and CSS, dedicated to creating visually appealing and user-friendly websites. With a strong foundation in web development and a diverse portfolio of projects, I excel in transforming static designs into dynamic and seamless user interfaces. My portfolio showcases my commitment to innovation and continuous learning, ensuring I stay up-to-date with the latest industry trends.
+QA Automation Engineer with a talent for building robust, scalable testing frameworks in Playwright, TypeScript, and Cucumber. I leverage a unique 9-year background as a Senior Automated Control Systems Engineer to bring a deep, systems-thinking approach to software quality. My experience designing and testing mission-critical industrial machinery has instilled in me a rigorous discipline for precision and reliability—skills I now apply to ensuring flawless software performance.
 
-As a former Automated Control Systems Engineer, I bring problem-solving abilities, attention to detail, and effective collaboration in multidisciplinary teams. Combining my engineering expertise with a profound passion for front-end development, I am confident in my ability to deliver exceptional results for the projects.
+I am passionate about the intersection of development and quality assurance, and I thrive on building the automated systems that allow development teams to ship code with confidence. I am always open to connecting with professionals who share this passion for building high-quality, reliable software.
 
 ## II. Languages and Tools
 
