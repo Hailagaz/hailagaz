@@ -10,8 +10,9 @@ QA Automation Engineer with an interest in building robust, scalable testing fra
 
 I am passionate about the intersection of development and quality assurance, and I thrive on building the automated systems that allow development teams to ship code with confidence. I am always open to connecting with professionals who share this passion for building high-quality, reliable software.
 
-## II. Languages and Tools
-
+## II. Skills
+#### Automation & Testing
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=Playwright)
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
