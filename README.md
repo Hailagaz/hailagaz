@@ -25,7 +25,7 @@ I am passionate about the intersection of development and quality assurance, and
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
-![Node.js](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=nodejs)
+![NodeJS](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql)
