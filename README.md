@@ -43,12 +43,12 @@ I am passionate about the intersection of development and quality assurance, and
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=for-the-badge&logo=autocad)
 ![TIA Portal](https://img.shields.io/badge/-TIAPortal-000000?style=for-the-badge&logo=tiaportal)
 ![MatLab](https://img.shields.io/badge/-MatLab-000000?style=for-the-badge&logo=matlab)
-<--
+<!--
 #### Languages
 ![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=english)
 ![Ukrainian](https://img.shields.io/badge/-Ukrainian-000000?style=for-the-badge&logo=ukrainian)
 ![Russian](https://img.shields.io/badge/-Russian-000000?style=for-the-badge&logo=russian)
--->
+--!>
 ## III. GitHub Statistics
 
 <div align="center">
