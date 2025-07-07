@@ -12,7 +12,7 @@ I am passionate about the intersection of development and quality assurance, and
 
 ## II. Skills
 #### Automation & Testing
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-000000?logo=playwright)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-000000?style=for-the-badge&logo=playwright)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=for-the-badge&logo=Cucumber)
 ![BDD](https://img.shields.io/badge/-BDD-000000?style=for-the-badge&logo=BDD)
 ![E2E](https://img.shields.io/badge/-E2E-000000?style=for-the-badge&logo=E2E)
