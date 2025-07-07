@@ -13,46 +13,41 @@ I am passionate about the intersection of development and quality assurance, and
 ## II. Skills
 #### Automation & Testing
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=Playwright)
-#### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
-
-#### Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
-![React Router](https://img.shields.io/badge/-React_Router-000000?style=for-the-badge&logo=react-router)
-![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
-![Chakra](https://img.shields.io/badge/-chakra-000000?style=for-the-badge&logo=chakraui)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
-
-#### Tools & Platforms
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai)
-![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=npm)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)
-![Gulp](https://img.shields.io/badge/-GULP-000000?style=for-the-badge&logo=gulp)
-![Jira](https://img.shields.io/badge/-jira-000000?style=for-the-badge&logo=jira)
-
-#### Testing
+![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=for-the-badge&logo=Cucumber)
+![BDD](https://img.shields.io/badge/-BDD-000000?style=for-the-badge&logo=BDD)
+![E2E](https://img.shields.io/badge/-E2E-000000?style=for-the-badge&logo=E2E)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=CI/CD)
 ![Jest](https://img.shields.io/badge/-JEST-000000?style=for-the-badge&logo=jest)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-000000?style=for-the-badge&logo=testing-library)
 
-
-#### Design
-![Figma](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
-
-<!--
-![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
-![React Native](https://img.shields.io/badge/-react_native-000000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
+#### Programming & Web Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=mysql)
-![Styled Components](https://img.shields.io/badge/-styled--components-000000?style=for-the-badge&logo=styled-components)
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
+![Node.js](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=nodejs)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql)
+![MUI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
+
+#### Developer Tools & Platforms
+![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GITLAB-000000?style=for-the-badge&logo=gitlab)
+![Jira](https://img.shields.io/badge/-jira-000000?style=for-the-badge&logo=jira)
+![Figma](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
+
+#### Engineering Specialized Software
+![Eplan Electric P8](https://img.shields.io/badge/-EplanElectricP8-000000?style=for-the-badge&logo=EplanElectricP8)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=for-the-badge&logo=AutoCAD)
+![TIA Portal](https://img.shields.io/badge/-TIAPortal-000000?style=for-the-badge&logo=TIAPortal)
+![MatLab](https://img.shields.io/badge/-MatLab-000000?style=for-the-badge&logo=matlab)
+
+#### Languages
+![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=English)
+![Ukrainian](https://img.shields.io/badge/-Ukrainian-000000?style=for-the-badge&logo=Ukrainian)
+![Russian](https://img.shields.io/badge/-Russian-000000?style=for-the-badge&logo=Russian)
 
 ## III. GitHub Statistics
 
