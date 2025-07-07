@@ -6,7 +6,7 @@
 ## I. About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
 
-QA Automation Engineer with a talent for building robust, scalable testing frameworks in Playwright, TypeScript, and Cucumber. I leverage a unique 9-year background as a Senior Automated Control Systems Engineer to bring a deep, systems-thinking approach to software quality. My experience designing and testing mission-critical industrial machinery has instilled in me a rigorous discipline for precision and reliability—skills I now apply to ensuring flawless software performance.
+QA Automation Engineer with a talent for building robust, scalable testing frameworks in Playwright, TypeScript, and Cucumber. I leverage a unique 9-year background as a Senior Automated Control Systems Engineer to bring a deep, systems-thinking approach to software quality. My experience designing and testing mission-critical industrial machinery has instilled in me a rigorous discipline for precision and reliability - skills I now apply to ensuring flawless software performance.
 
 I am passionate about the intersection of development and quality assurance, and I thrive on building the automated systems that allow development teams to ship code with confidence. I am always open to connecting with professionals who share this passion for building high-quality, reliable software.
 
