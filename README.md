@@ -5,6 +5,7 @@
 
 ## I. About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
+
 Technical Writer & Localization Specialist with 9+ years of documentation experience, from industrial automation to software & SaaS products.
 
 I create user manuals, API docs, onboarding guides, and release notes that are clear, accurate, and user-friendly. Skilled in Confluence, Git, Markdown, and localization (10+ languages).
