@@ -8,7 +8,7 @@
 
 Technical Writer & Localization Specialist with 9+ years of documentation experience, from industrial automation to software & SaaS products.
 
-I create user manuals, API docs, onboarding guides, and release notes that are clear, accurate, and user-friendly. Skilled in Confluence, Git, Markdown, and localization (10+ languages).
+I create user manuals, installation guides, integration documentation, onboarding guides, and release notes that are clear, accurate, and user-friendly. Skilled in Confluence, Git, Markdown, and localization (10+ languages).
 
 My strength is bridging the gap between engineers and end users, turning complex processes into practical, accessible content that improves adoption and reduces support.
 
