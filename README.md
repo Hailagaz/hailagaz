@@ -5,10 +5,11 @@
 
 ## I. About me
 ![](https://komarev.com/ghpvc/?username=hailagaz&style=flat-square&color=00008b&label=VISITS)
+Technical Writer & Localization Specialist with 9+ years of documentation experience, from industrial automation to software & SaaS products.
 
-QA Automation Engineer with an interest in building robust, scalable testing frameworks in Playwright, TypeScript, and Cucumber. I leverage a unique 9-year background as a Senior Automated Control Systems Engineer to bring a deep, systems-thinking approach to software quality. My experience designing and testing mission-critical industrial machinery has instilled in me a rigorous discipline for precision and reliability - skills I now apply to ensuring flawless software performance.
+I create user manuals, API docs, onboarding guides, and release notes that are clear, accurate, and user-friendly. Skilled in Confluence, Git, Markdown, and localization (10+ languages).
 
-I am passionate about the intersection of development and quality assurance, and I thrive on building the automated systems that allow development teams to ship code with confidence. I am always open to connecting with professionals who share this passion for building high-quality, reliable software.
+My strength is bridging the gap between engineers and end users, turning complex processes into practical, accessible content that improves adoption and reduces support.
 
 ## II. Skills
 #### Automation & Testing
